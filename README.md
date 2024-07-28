@@ -6,6 +6,7 @@ This application monitors a specific website section for changes and logs them.
 
 - Python 3.9.7
 - Docker and Docker Compose (for containerized setup)
+- Poetry (for dependency management)
 
 ## Setup Instructions
 
@@ -24,9 +25,14 @@ This application monitors a specific website section for changes and logs them.
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-4. Install the required packages:
+4. Install Poetry:
    ```
-   pip install -r requirements.txt
+   pip install poetry
+   ```
+
+5. Install the required packages using Poetry:
+   ```
+   poetry install
    ```
 
 ## Running the App Locally
@@ -59,6 +65,18 @@ This application monitors a specific website section for changes and logs them.
 ## Accessing Logs
 
 Logs will be stored in the `./logs` directory on your host machine.
+
+## Running the Setup Script
+
+1. Ensure the `setup.sh` script has execute permissions:
+   ```
+   chmod +x setup.sh
+   ```
+
+2. Run the `setup.sh` script to stop, remove, build, and deploy Docker containers:
+   ```
+   ./setup.sh
+   ```
 
 ## Troubleshooting
 
