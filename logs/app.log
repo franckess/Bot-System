@@ -1,0 +1,878 @@
+2024-07-27T22:06:01.028510+00:00 - INFO - ====== WebDriver manager ======
+2024-07-27T22:06:01.263179+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T22:06:01.719404+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T22:06:01.849979+00:00 - INFO - There is no [mac64] chromedriver "126.0.6478.182" for browser google-chrome "126.0.6478" in cache
+2024-07-27T22:06:01.862015+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T22:06:02.469490+00:00 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-27T22:06:02.484038+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-27T22:06:02.503765+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-27T22:06:02.664050+00:00 - INFO - Driver downloading response is 200
+2024-07-27T22:06:04.230705+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T22:06:06.765849+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-27T22:06:13.768548+00:00 - INFO - Found email & password fields, and login button.
+2024-07-27T22:06:13.955415+00:00 - INFO - Email address entered.
+2024-07-27T22:06:14.050599+00:00 - INFO - Password entered.
+2024-07-27T22:06:14.106776+00:00 - INFO - Scrolled login button into view.
+2024-07-27T22:06:14.126085+00:00 - INFO - Login button clicked.
+2024-07-27T22:06:15.194390+00:00 - INFO - Login successful!
+2024-07-27T22:06:18.960692+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:18.974518+00:00 - INFO - Run 1/100 completed.
+2024-07-27T22:06:22.695364+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:22.697491+00:00 - INFO - Run 2/100 completed.
+2024-07-27T22:06:26.418380+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:26.419233+00:00 - INFO - Run 3/100 completed.
+2024-07-27T22:06:30.135831+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:30.156214+00:00 - INFO - Run 4/100 completed.
+2024-07-27T22:06:33.943115+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:33.962569+00:00 - INFO - Run 5/100 completed.
+2024-07-27T22:06:37.714586+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:37.731837+00:00 - INFO - Run 6/100 completed.
+2024-07-27T22:06:41.435599+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:41.443882+00:00 - INFO - Run 7/100 completed.
+2024-07-27T22:06:45.202466+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:45.214907+00:00 - INFO - Run 8/100 completed.
+2024-07-27T22:06:48.952705+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:48.987917+00:00 - INFO - Run 9/100 completed.
+2024-07-27T22:06:52.756002+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:52.764904+00:00 - INFO - Run 10/100 completed.
+2024-07-27T22:06:56.505725+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:06:56.517861+00:00 - INFO - Run 11/100 completed.
+2024-07-27T22:07:00.245281+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:00.256873+00:00 - INFO - Run 12/100 completed.
+2024-07-27T22:07:03.982802+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:03.992679+00:00 - INFO - Run 13/100 completed.
+2024-07-27T22:07:07.866148+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:07.873666+00:00 - INFO - Run 14/100 completed.
+2024-07-27T22:07:11.622884+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:11.640473+00:00 - INFO - Run 15/100 completed.
+2024-07-27T22:07:15.360289+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:15.377671+00:00 - INFO - Run 16/100 completed.
+2024-07-27T22:07:19.114263+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:19.116606+00:00 - INFO - Run 17/100 completed.
+2024-07-27T22:07:22.827860+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:22.846585+00:00 - INFO - Run 18/100 completed.
+2024-07-27T22:07:26.551351+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:26.554246+00:00 - INFO - Run 19/100 completed.
+2024-07-27T22:07:30.298893+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:30.307492+00:00 - INFO - Run 20/100 completed.
+2024-07-27T22:07:34.025514+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:34.043225+00:00 - INFO - Run 21/100 completed.
+2024-07-27T22:07:37.857626+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:37.866207+00:00 - INFO - Run 22/100 completed.
+2024-07-27T22:07:41.600392+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:41.603248+00:00 - INFO - Run 23/100 completed.
+2024-07-27T22:07:45.401983+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:45.410334+00:00 - INFO - Run 24/100 completed.
+2024-07-27T22:07:49.163132+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:49.173002+00:00 - INFO - Run 25/100 completed.
+2024-07-27T22:07:52.884543+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:52.906169+00:00 - INFO - Run 26/100 completed.
+2024-07-27T22:07:56.614527+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:07:56.616067+00:00 - INFO - Run 27/100 completed.
+2024-07-27T22:08:00.341288+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:00.352870+00:00 - INFO - Run 28/100 completed.
+2024-07-27T22:08:04.073083+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:04.082718+00:00 - INFO - Run 29/100 completed.
+2024-07-27T22:08:07.849156+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:07.862206+00:00 - INFO - Run 30/100 completed.
+2024-07-27T22:08:11.829576+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:11.846909+00:00 - INFO - Run 31/100 completed.
+2024-07-27T22:08:15.587768+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:15.587899+00:00 - INFO - Run 32/100 completed.
+2024-07-27T22:08:19.419134+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:19.434101+00:00 - INFO - Run 33/100 completed.
+2024-07-27T22:08:23.151639+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:23.151916+00:00 - INFO - Run 34/100 completed.
+2024-07-27T22:08:26.882799+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:26.893838+00:00 - INFO - Run 35/100 completed.
+2024-07-27T22:08:30.629602+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:30.637691+00:00 - INFO - Run 36/100 completed.
+2024-07-27T22:08:34.370672+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:34.391666+00:00 - INFO - Run 37/100 completed.
+2024-07-27T22:08:38.146071+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:38.146265+00:00 - INFO - Run 38/100 completed.
+2024-07-27T22:08:41.980012+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:41.983455+00:00 - INFO - Run 39/100 completed.
+2024-07-27T22:08:45.731985+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:45.734565+00:00 - INFO - Run 40/100 completed.
+2024-07-27T22:08:49.445728+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:49.445862+00:00 - INFO - Run 41/100 completed.
+2024-07-27T22:08:53.189585+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:53.203280+00:00 - INFO - Run 42/100 completed.
+2024-07-27T22:08:56.926242+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:08:56.943411+00:00 - INFO - Run 43/100 completed.
+2024-07-27T22:09:00.753749+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:00.772764+00:00 - INFO - Run 44/100 completed.
+2024-07-27T22:09:04.489728+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:04.509065+00:00 - INFO - Run 45/100 completed.
+2024-07-27T22:09:08.298252+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:08.299264+00:00 - INFO - Run 46/100 completed.
+2024-07-27T22:09:12.118555+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:12.123037+00:00 - INFO - Run 47/100 completed.
+2024-07-27T22:09:15.859904+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:15.871481+00:00 - INFO - Run 48/100 completed.
+2024-07-27T22:09:19.668686+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:19.668973+00:00 - INFO - Run 49/100 completed.
+2024-07-27T22:09:23.396614+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:23.416089+00:00 - INFO - Run 50/100 completed.
+2024-07-27T22:09:27.166139+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:27.170248+00:00 - INFO - Run 51/100 completed.
+2024-07-27T22:09:30.898243+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:30.902981+00:00 - INFO - Run 52/100 completed.
+2024-07-27T22:09:34.637183+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:34.638825+00:00 - INFO - Run 53/100 completed.
+2024-07-27T22:09:38.390963+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:38.393901+00:00 - INFO - Run 54/100 completed.
+2024-07-27T22:09:42.164512+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:42.181800+00:00 - INFO - Run 55/100 completed.
+2024-07-27T22:09:45.952501+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:45.972237+00:00 - INFO - Run 56/100 completed.
+2024-07-27T22:09:49.718227+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:49.738660+00:00 - INFO - Run 57/100 completed.
+2024-07-27T22:09:53.447260+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:53.455683+00:00 - INFO - Run 58/100 completed.
+2024-07-27T22:09:57.216548+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:09:57.221482+00:00 - INFO - Run 59/100 completed.
+2024-07-27T22:10:00.941182+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:00.959619+00:00 - INFO - Run 60/100 completed.
+2024-07-27T22:10:04.699158+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:04.699406+00:00 - INFO - Run 61/100 completed.
+2024-07-27T22:10:08.465512+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:08.471415+00:00 - INFO - Run 62/100 completed.
+2024-07-27T22:10:12.197572+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:12.211482+00:00 - INFO - Run 63/100 completed.
+2024-07-27T22:10:15.967177+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:15.986418+00:00 - INFO - Run 64/100 completed.
+2024-07-27T22:10:19.733657+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:19.742293+00:00 - INFO - Run 65/100 completed.
+2024-07-27T22:10:23.451457+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:23.465202+00:00 - INFO - Run 66/100 completed.
+2024-07-27T22:10:27.236354+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:27.240203+00:00 - INFO - Run 67/100 completed.
+2024-07-27T22:10:30.957437+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:30.972807+00:00 - INFO - Run 68/100 completed.
+2024-07-27T22:10:34.789102+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:34.790153+00:00 - INFO - Run 69/100 completed.
+2024-07-27T22:10:38.551685+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:38.572302+00:00 - INFO - Run 70/100 completed.
+2024-07-27T22:10:42.351365+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:42.372836+00:00 - INFO - Run 71/100 completed.
+2024-07-27T22:10:46.139194+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:46.157323+00:00 - INFO - Run 72/100 completed.
+2024-07-27T22:10:49.906090+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:49.919737+00:00 - INFO - Run 73/100 completed.
+2024-07-27T22:10:53.626771+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:53.634798+00:00 - INFO - Run 74/100 completed.
+2024-07-27T22:10:57.361140+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:10:57.378771+00:00 - INFO - Run 75/100 completed.
+2024-07-27T22:11:01.091350+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:01.098809+00:00 - INFO - Run 76/100 completed.
+2024-07-27T22:11:04.893542+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:04.910550+00:00 - INFO - Run 77/100 completed.
+2024-07-27T22:11:08.723715+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:08.742482+00:00 - INFO - Run 78/100 completed.
+2024-07-27T22:11:12.548299+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:12.567869+00:00 - INFO - Run 79/100 completed.
+2024-07-27T22:11:16.349193+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:16.361890+00:00 - INFO - Run 80/100 completed.
+2024-07-27T22:11:20.135504+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:20.150014+00:00 - INFO - Run 81/100 completed.
+2024-07-27T22:11:23.945065+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:23.957810+00:00 - INFO - Run 82/100 completed.
+2024-07-27T22:11:27.863132+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:27.867992+00:00 - INFO - Run 83/100 completed.
+2024-07-27T22:11:31.784223+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:31.799937+00:00 - INFO - Run 84/100 completed.
+2024-07-27T22:11:35.606592+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:35.632641+00:00 - INFO - Run 85/100 completed.
+2024-07-27T22:11:39.513026+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:39.513269+00:00 - INFO - Run 86/100 completed.
+2024-07-27T22:11:43.319262+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:43.333295+00:00 - INFO - Run 87/100 completed.
+2024-07-27T22:11:47.153049+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:47.159220+00:00 - INFO - Run 88/100 completed.
+2024-07-27T22:11:50.852677+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:50.862127+00:00 - INFO - Run 89/100 completed.
+2024-07-27T22:11:54.524308+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:54.537108+00:00 - INFO - Run 90/100 completed.
+2024-07-27T22:11:58.217835+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:11:58.243070+00:00 - INFO - Run 91/100 completed.
+2024-07-27T22:12:01.891057+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:01.906081+00:00 - INFO - Run 92/100 completed.
+2024-07-27T22:12:05.598577+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:05.598772+00:00 - INFO - Run 93/100 completed.
+2024-07-27T22:12:09.317279+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:09.335038+00:00 - INFO - Run 94/100 completed.
+2024-07-27T22:12:13.067931+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:13.090931+00:00 - INFO - Run 95/100 completed.
+2024-07-27T22:12:16.774308+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:16.784943+00:00 - INFO - Run 96/100 completed.
+2024-07-27T22:12:20.463659+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:20.482789+00:00 - INFO - Run 97/100 completed.
+2024-07-27T22:12:24.164001+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:24.166774+00:00 - INFO - Run 98/100 completed.
+2024-07-27T22:12:27.846713+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:27.866869+00:00 - INFO - Run 99/100 completed.
+2024-07-27T22:12:31.546081+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T22:12:31.565989+00:00 - INFO - Run 100/100 completed.
+2024-07-27T22:12:31.567796+00:00 - INFO - Max duration reached. Stopping monitoring.
+2024-07-27T23:21:35.235545+00:00 - INFO - ====== WebDriver manager ======
+2024-07-27T23:21:35.444384+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:21:35.985715+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:21:36.121156+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-x64/chromedriver] found in cache
+2024-07-27T23:21:41.852918+00:00 - INFO - Found email & password fields, and login button.
+2024-07-27T23:21:42.029306+00:00 - INFO - Email address entered.
+2024-07-27T23:21:42.126910+00:00 - INFO - Password entered.
+2024-07-27T23:21:42.176691+00:00 - INFO - Scrolled login button into view.
+2024-07-27T23:21:42.193152+00:00 - INFO - Login button clicked.
+2024-07-27T23:21:43.241841+00:00 - INFO - Login successful!
+2024-07-27T23:21:47.011106+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:21:47.017569+00:00 - INFO - Run 1/100 completed.
+2024-07-27T23:21:50.741759+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:21:50.744355+00:00 - INFO - Run 2/100 completed.
+2024-07-27T23:21:54.406872+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:21:54.407427+00:00 - INFO - Run 3/100 completed.
+2024-07-27T23:21:58.107242+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:21:58.123457+00:00 - INFO - Run 4/100 completed.
+2024-07-27T23:22:01.901883+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:01.904187+00:00 - INFO - Run 5/100 completed.
+2024-07-27T23:22:05.656580+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:05.663299+00:00 - INFO - Run 6/100 completed.
+2024-07-27T23:22:09.376221+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:09.391004+00:00 - INFO - Run 7/100 completed.
+2024-07-27T23:22:13.109748+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:13.129120+00:00 - INFO - Run 8/100 completed.
+2024-07-27T23:22:16.913484+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:16.916831+00:00 - INFO - Run 9/100 completed.
+2024-07-27T23:22:20.649715+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:22:20.655094+00:00 - INFO - Run 10/100 completed.
+2024-07-27T23:22:23.231596+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/4f4357cd44c26803722e45661085662f
+2024-07-27T23:22:23.241096+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe78f3a5430>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f4357cd44c26803722e45661085662f
+2024-07-27T23:22:23.242475+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe78f3a5550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f4357cd44c26803722e45661085662f
+2024-07-27T23:52:40.906821+00:00 - INFO - ====== WebDriver manager ======
+2024-07-27T23:52:41.175426+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:52:41.318960+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:52:41.455052+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-x64/chromedriver] found in cache
+2024-07-27T23:52:47.560601+00:00 - INFO - Found email & password fields, and login button.
+2024-07-27T23:52:47.766331+00:00 - INFO - Email address entered.
+2024-07-27T23:52:47.860935+00:00 - INFO - Password entered.
+2024-07-27T23:52:47.936252+00:00 - INFO - Scrolled login button into view.
+2024-07-27T23:52:47.959249+00:00 - INFO - Login button clicked.
+2024-07-27T23:52:49.040437+00:00 - INFO - Login successful!
+2024-07-27T23:53:02.835814+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:53:02.848199+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:02.852056+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:02.869805+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:53:02.869968+00:00 - INFO - Run 1/20 completed.
+2024-07-27T23:53:16.613828+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:53:16.620425+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:16.625532+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:16.643400+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:53:16.643570+00:00 - INFO - Run 2/20 completed.
+2024-07-27T23:53:30.560218+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:53:30.570529+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:30.575421+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:30.591819+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:53:30.592055+00:00 - INFO - Run 3/20 completed.
+2024-07-27T23:53:44.119506+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:53:44.137587+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:44.141668+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:44.159493+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:53:44.159668+00:00 - INFO - Run 4/20 completed.
+2024-07-27T23:53:57.928516+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:53:57.940183+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:57.944730+00:00 - INFO - Filtered events: []
+2024-07-27T23:53:57.962176+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:53:57.962366+00:00 - INFO - Run 5/20 completed.
+2024-07-27T23:54:11.993755+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:54:12.009746+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:12.014123+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:12.031807+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:54:12.031980+00:00 - INFO - Run 6/20 completed.
+2024-07-27T23:54:25.892531+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:54:25.904636+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:25.909182+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:25.926504+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:54:25.926676+00:00 - INFO - Run 7/20 completed.
+2024-07-27T23:54:39.726680+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:54:39.741329+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:39.745238+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:39.767024+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:54:39.767414+00:00 - INFO - Run 8/20 completed.
+2024-07-27T23:54:53.559050+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:54:53.574844+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:53.578996+00:00 - INFO - Filtered events: []
+2024-07-27T23:54:53.596825+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:54:53.596944+00:00 - INFO - Run 9/20 completed.
+2024-07-27T23:55:07.408459+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:55:07.409306+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:07.413132+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:07.431351+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:55:07.431522+00:00 - INFO - Run 10/20 completed.
+2024-07-27T23:55:21.354137+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:55:21.354789+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:21.358721+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:21.377053+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:55:21.377248+00:00 - INFO - Run 11/20 completed.
+2024-07-27T23:55:35.128895+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:55:35.131701+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:35.136220+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:35.153593+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:55:35.153718+00:00 - INFO - Run 12/20 completed.
+2024-07-27T23:55:48.957843+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:55:48.970426+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:48.974977+00:00 - INFO - Filtered events: []
+2024-07-27T23:55:48.992151+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:55:48.992302+00:00 - INFO - Run 13/20 completed.
+2024-07-27T23:56:02.813410+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:56:02.830979+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:02.835811+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:02.853988+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:56:02.854167+00:00 - INFO - Run 14/20 completed.
+2024-07-27T23:56:16.617417+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:56:16.627566+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:16.631829+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:16.649392+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:56:16.649652+00:00 - INFO - Run 15/20 completed.
+2024-07-27T23:56:30.574762+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:56:30.582268+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:30.586568+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:30.606334+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:56:30.626819+00:00 - INFO - Run 16/20 completed.
+2024-07-27T23:56:44.775120+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:56:44.790884+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:44.796206+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:44.813673+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:56:44.813811+00:00 - INFO - Run 17/20 completed.
+2024-07-27T23:56:58.853781+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:56:58.874457+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:58.879692+00:00 - INFO - Filtered events: []
+2024-07-27T23:56:58.896276+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:56:58.896446+00:00 - INFO - Run 18/20 completed.
+2024-07-27T23:57:12.796204+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:57:12.797471+00:00 - INFO - Filtered events: []
+2024-07-27T23:57:12.801924+00:00 - INFO - Filtered events: []
+2024-07-27T23:57:12.818042+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:57:12.818213+00:00 - INFO - Run 19/20 completed.
+2024-07-27T23:57:26.732388+00:00 - INFO - Retrieved HTML for specific section: <div _ngcontent-ng-c3844638322="" class="daycolumn cal-today available ng-star-inserted" style="border: 3px solid red;"><div _ngcontent-ng-c3844638322="" class="cal-day-headers pointer"><span _ngcontent-ng-c3844638322="" class="date">Sat 27</span><emp-availability-header-pill _ngcontent-ng-c3844638322="" _nghost-ng-c195343522=""><div _ngcontent-ng-c195343522="" class="day-availability"><div _ngcontent-ng-c195343522="" class="pill available ng-star-inserted"><div _ngcontent-ng-c195343522="" class...
+2024-07-27T23:57:26.745467+00:00 - INFO - Filtered events: []
+2024-07-27T23:57:26.749779+00:00 - INFO - Filtered events: []
+2024-07-27T23:57:26.767678+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:57:26.767909+00:00 - INFO - Run 20/20 completed.
+2024-07-27T23:57:26.771490+00:00 - INFO - Max duration reached. Stopping monitoring.
+2024-07-27T23:58:23.728844+00:00 - INFO - ====== WebDriver manager ======
+2024-07-27T23:58:23.971965+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:58:24.123341+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-27T23:58:24.238260+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-x64/chromedriver] found in cache
+2024-07-27T23:58:29.806514+00:00 - INFO - Found email & password fields, and login button.
+2024-07-27T23:58:30.014462+00:00 - INFO - Email address entered.
+2024-07-27T23:58:30.124683+00:00 - INFO - Password entered.
+2024-07-27T23:58:30.168792+00:00 - INFO - Scrolled login button into view.
+2024-07-27T23:58:30.187112+00:00 - INFO - Login button clicked.
+2024-07-27T23:58:31.236798+00:00 - INFO - Login successful!
+2024-07-27T23:58:40.052575+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:40.096416+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:40.128760+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:58:40.128956+00:00 - INFO - Run 1/20 completed.
+2024-07-27T23:58:48.878953+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:48.886658+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:48.903339+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:58:48.903454+00:00 - INFO - Run 2/20 completed.
+2024-07-27T23:58:57.622666+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:57.642097+00:00 - INFO - Filtered events: []
+2024-07-27T23:58:57.659023+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:58:57.659292+00:00 - INFO - Run 3/20 completed.
+2024-07-27T23:59:06.477956+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:06.503690+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:06.521336+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:06.521561+00:00 - INFO - Run 4/20 completed.
+2024-07-27T23:59:15.267407+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:15.288685+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:15.306556+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:15.306757+00:00 - INFO - Run 5/20 completed.
+2024-07-27T23:59:24.018363+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:24.037292+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:24.054308+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:24.054610+00:00 - INFO - Run 6/20 completed.
+2024-07-27T23:59:32.807186+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:32.816398+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:32.833862+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:32.834045+00:00 - INFO - Run 7/20 completed.
+2024-07-27T23:59:41.707560+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:41.730016+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:41.746612+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:41.746896+00:00 - INFO - Run 8/20 completed.
+2024-07-27T23:59:51.445513+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:51.450458+00:00 - INFO - Filtered events: []
+2024-07-27T23:59:51.467589+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-27T23:59:51.467779+00:00 - INFO - Run 9/20 completed.
+2024-07-28T00:00:00.215008+00:00 - INFO - Filtered events: []
+2024-07-28T00:00:00.223425+00:00 - INFO - Filtered events: []
+2024-07-28T00:00:00.223780+00:00 - INFO - No significant change detected in the monitored section.
+2024-07-28T00:00:00.223897+00:00 - INFO - Run 10/20 completed.
+2024-07-28T00:00:08.680616+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:17.128585+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:25.460839+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:33.910774+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:42.362809+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:50.727313+00:00 - ERROR - Specific section not found.
+2024-07-28T00:00:59.041508+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:07.460952+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:15.835942+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:24.329594+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:32.824806+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:41.506446+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:49.995055+00:00 - ERROR - Specific section not found.
+2024-07-28T00:01:58.352140+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:06.755249+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:15.098451+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:23.460815+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:31.862443+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:40.199273+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:48.591905+00:00 - ERROR - Specific section not found.
+2024-07-28T00:02:57.059864+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:05.456608+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:14.000177+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:22.342982+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:30.726708+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:39.343231+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:47.655591+00:00 - ERROR - Specific section not found.
+2024-07-28T00:03:55.985117+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:04.376330+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:12.710397+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:21.037964+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:29.370448+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:37.776175+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:46.192681+00:00 - ERROR - Specific section not found.
+2024-07-28T00:04:54.533726+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:02.892570+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:11.239071+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:19.678154+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:28.021213+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:36.475768+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:44.863214+00:00 - ERROR - Specific section not found.
+2024-07-28T00:05:53.317566+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:01.677639+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:10.061341+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:18.631457+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:27.064497+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:35.428920+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:43.762914+00:00 - ERROR - Specific section not found.
+2024-07-28T00:06:52.142838+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:00.541835+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:08.838214+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:17.124527+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:25.479510+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:33.834954+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:42.154266+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:50.541453+00:00 - ERROR - Specific section not found.
+2024-07-28T00:07:59.021686+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:07.410590+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:15.728832+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:24.105255+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:32.474535+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:40.912326+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:49.264532+00:00 - ERROR - Specific section not found.
+2024-07-28T00:08:57.551345+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:06.074568+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:14.515997+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:22.846056+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:31.214236+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:39.614764+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:48.063812+00:00 - ERROR - Specific section not found.
+2024-07-28T00:09:56.393356+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:05.086760+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:13.424058+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:21.794371+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:30.102770+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:38.578254+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:46.937715+00:00 - ERROR - Specific section not found.
+2024-07-28T00:10:55.280153+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:03.585082+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:11.903844+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:20.302781+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:28.679006+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:37.054782+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:45.360724+00:00 - ERROR - Specific section not found.
+2024-07-28T00:11:53.711375+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:02.060450+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:10.378266+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:18.651443+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:26.985346+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:35.376076+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:43.672871+00:00 - ERROR - Specific section not found.
+2024-07-28T00:12:51.949887+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:00.660198+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:09.027597+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:17.319384+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:25.603092+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:34.064344+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:42.415041+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:50.903613+00:00 - ERROR - Specific section not found.
+2024-07-28T00:13:59.212978+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:07.620740+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:15.960234+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:24.308388+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:32.676435+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:41.075186+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:49.718755+00:00 - ERROR - Specific section not found.
+2024-07-28T00:14:58.024934+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:06.314670+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:14.660075+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:23.071109+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:31.431415+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:39.810114+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:48.207429+00:00 - ERROR - Specific section not found.
+2024-07-28T00:15:56.617252+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:04.968918+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:13.412746+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:21.819802+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:30.176215+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:38.531349+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:47.156198+00:00 - ERROR - Specific section not found.
+2024-07-28T00:16:55.545609+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:03.893848+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:12.194225+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:20.642557+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:29.005093+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:37.366568+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:45.672426+00:00 - ERROR - Specific section not found.
+2024-07-28T00:17:54.031730+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:02.445832+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:10.892144+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:19.299248+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:27.577131+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:35.997934+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:44.381792+00:00 - ERROR - Specific section not found.
+2024-07-28T00:18:52.737416+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:01.099775+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:09.819184+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:18.258277+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:26.567907+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:34.909144+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:43.250652+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:51.583546+00:00 - ERROR - Specific section not found.
+2024-07-28T00:19:59.965577+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:08.289734+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:16.679137+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:25.084200+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:33.408368+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:41.815246+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:50.256146+00:00 - ERROR - Specific section not found.
+2024-07-28T00:20:58.609690+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:07.001201+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:15.368730+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:24.053018+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:32.495044+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:40.803151+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:49.096109+00:00 - ERROR - Specific section not found.
+2024-07-28T00:21:57.446785+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:05.855638+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:14.151964+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:22.507181+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:30.875798+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:39.290525+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:47.820911+00:00 - ERROR - Specific section not found.
+2024-07-28T00:22:56.122024+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:04.492875+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:12.871721+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:21.166835+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:29.456576+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:37.803508+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:46.157085+00:00 - ERROR - Specific section not found.
+2024-07-28T00:23:54.457299+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:02.761136+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:11.157727+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:19.499321+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:27.817007+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:36.151963+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:44.513532+00:00 - ERROR - Specific section not found.
+2024-07-28T00:24:52.935006+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:01.318379+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:09.605538+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:18.073093+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:27.242408+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:35.540094+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:43.873188+00:00 - ERROR - Specific section not found.
+2024-07-28T00:25:52.316464+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:00.672115+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:09.009934+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:17.375117+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:25.786682+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:34.242504+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:42.545022+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:50.912653+00:00 - ERROR - Specific section not found.
+2024-07-28T00:26:59.369671+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:07.803005+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:16.087645+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:24.439519+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:33.103604+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:41.471822+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:49.854687+00:00 - ERROR - Specific section not found.
+2024-07-28T00:27:58.152241+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:06.549958+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:14.978350+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:23.288797+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:31.611975+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:40.520034+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:48.920766+00:00 - ERROR - Specific section not found.
+2024-07-28T00:28:57.256359+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:05.632594+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:14.772999+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:23.240962+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:31.539707+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:39.871142+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:48.238166+00:00 - ERROR - Specific section not found.
+2024-07-28T00:29:56.583862+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:04.892638+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:13.522987+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:21.932118+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:30.291660+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:38.601197+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:46.901409+00:00 - ERROR - Specific section not found.
+2024-07-28T00:30:55.263147+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:03.670552+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:12.006055+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:20.394160+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:28.765002+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:37.134393+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:45.562762+00:00 - ERROR - Specific section not found.
+2024-07-28T00:31:53.973146+00:00 - ERROR - Specific section not found.
+2024-07-28T00:32:02.398040+00:00 - ERROR - Specific section not found.
+2024-07-28T00:32:10.878686+00:00 - ERROR - Specific section not found.
+2024-07-28T00:32:19.181577+00:00 - ERROR - Specific section not found.
+2024-07-28T00:32:27.485954+00:00 - ERROR - Specific section not found.
+2024-07-28T00:32:31.288317+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdebda08550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3c4c8f0385b000372768bc9596097896
+2024-07-28T00:32:31.299987+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdebdba4b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3c4c8f0385b000372768bc9596097896
+2024-07-28T00:32:31.301397+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdebdba4bb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3c4c8f0385b000372768bc9596097896
+2024-07-28T08:35:12.840318+00:00 - INFO - ====== WebDriver manager ======
+2024-07-28T08:35:13.081121+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:35:13.235660+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:35:13.371403+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:35:13.954873+00:00 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-28T08:35:13.972444+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-28T08:35:13.992293+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-28T08:35:14.153696+00:00 - INFO - Driver downloading response is 200
+2024-07-28T08:35:15.732943+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:35:18.630773+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-28T08:35:25.327105+00:00 - INFO - Found email & password fields, and login button.
+2024-07-28T08:35:25.602047+00:00 - INFO - Email address entered.
+2024-07-28T08:35:25.737428+00:00 - INFO - Password entered.
+2024-07-28T08:35:25.806568+00:00 - INFO - Scrolled login button into view.
+2024-07-28T08:35:25.831614+00:00 - INFO - Login button clicked.
+2024-07-28T08:35:26.886089+00:00 - INFO - Login successful!
+2024-07-28T08:35:35.279992+00:00 - ERROR - Section for Sun 21 not found.
+2024-07-28T08:35:40.397423+00:00 - ERROR - Section for Mon 22 not found.
+2024-07-28T08:35:45.527156+00:00 - ERROR - Section for Tue 23 not found.
+2024-07-28T08:35:50.679533+00:00 - ERROR - Section for Wed 24 not found.
+2024-07-28T08:35:55.803794+00:00 - ERROR - Section for Thu 25 not found.
+2024-07-28T08:36:00.928013+00:00 - ERROR - Section for Fri 26 not found.
+2024-07-28T08:36:06.077666+00:00 - ERROR - Section for Sat 27 not found.
+2024-07-28T08:36:06.096977+00:00 - INFO - No change in the monitored section for Sun 21.
+2024-07-28T08:36:06.097138+00:00 - INFO - No change in the monitored section for Mon 22.
+2024-07-28T08:36:06.097299+00:00 - INFO - No change in the monitored section for Tue 23.
+2024-07-28T08:36:06.097370+00:00 - INFO - No change in the monitored section for Wed 24.
+2024-07-28T08:36:06.097461+00:00 - INFO - No change in the monitored section for Thu 25.
+2024-07-28T08:36:06.097536+00:00 - INFO - No change in the monitored section for Fri 26.
+2024-07-28T08:36:06.097655+00:00 - INFO - No change in the monitored section for Sat 27.
+2024-07-28T08:36:06.097768+00:00 - INFO - Run 1/20 completed.
+2024-07-28T08:36:14.602099+00:00 - ERROR - Section for Sun 21 not found.
+2024-07-28T08:36:19.752551+00:00 - ERROR - Section for Mon 22 not found.
+2024-07-28T08:36:24.904119+00:00 - ERROR - Section for Tue 23 not found.
+2024-07-28T08:36:30.042380+00:00 - ERROR - Section for Wed 24 not found.
+2024-07-28T08:36:35.285138+00:00 - ERROR - Section for Thu 25 not found.
+2024-07-28T08:36:40.433172+00:00 - ERROR - Section for Fri 26 not found.
+2024-07-28T08:36:45.572687+00:00 - ERROR - Section for Sat 27 not found.
+2024-07-28T08:36:45.574324+00:00 - INFO - No change in the monitored section for Sun 21.
+2024-07-28T08:36:45.574622+00:00 - INFO - No change in the monitored section for Mon 22.
+2024-07-28T08:36:45.574916+00:00 - INFO - No change in the monitored section for Tue 23.
+2024-07-28T08:36:45.575309+00:00 - INFO - No change in the monitored section for Wed 24.
+2024-07-28T08:36:45.575476+00:00 - INFO - No change in the monitored section for Thu 25.
+2024-07-28T08:36:45.575673+00:00 - INFO - No change in the monitored section for Fri 26.
+2024-07-28T08:36:45.575894+00:00 - INFO - No change in the monitored section for Sat 27.
+2024-07-28T08:36:45.576020+00:00 - INFO - Run 2/20 completed.
+2024-07-28T08:36:54.518704+00:00 - ERROR - Section for Sun 21 not found.
+2024-07-28T08:36:59.662675+00:00 - ERROR - Section for Mon 22 not found.
+2024-07-28T08:37:04.817030+00:00 - ERROR - Section for Tue 23 not found.
+2024-07-28T08:37:09.963418+00:00 - ERROR - Section for Wed 24 not found.
+2024-07-28T08:37:15.116517+00:00 - ERROR - Section for Thu 25 not found.
+2024-07-28T08:37:20.382869+00:00 - ERROR - Section for Fri 26 not found.
+2024-07-28T08:37:25.519480+00:00 - ERROR - Section for Sat 27 not found.
+2024-07-28T08:37:25.541873+00:00 - INFO - No change in the monitored section for Sun 21.
+2024-07-28T08:37:25.542084+00:00 - INFO - No change in the monitored section for Mon 22.
+2024-07-28T08:37:25.542183+00:00 - INFO - No change in the monitored section for Tue 23.
+2024-07-28T08:37:25.542260+00:00 - INFO - No change in the monitored section for Wed 24.
+2024-07-28T08:37:25.542339+00:00 - INFO - No change in the monitored section for Thu 25.
+2024-07-28T08:37:25.542416+00:00 - INFO - No change in the monitored section for Fri 26.
+2024-07-28T08:37:25.542483+00:00 - INFO - No change in the monitored section for Sat 27.
+2024-07-28T08:37:25.542576+00:00 - INFO - Run 3/20 completed.
+2024-07-28T08:37:26.976338+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/c694367e6e8c0a951b482fc40f8d5abe
+2024-07-28T08:37:26.985359+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa10420abb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c694367e6e8c0a951b482fc40f8d5abe
+2024-07-28T08:37:27.007008+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa10426e4c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c694367e6e8c0a951b482fc40f8d5abe
+2024-07-28T08:48:25.523224+00:00 - INFO - ====== WebDriver manager ======
+2024-07-28T08:48:25.747262+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:48:25.898744+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-28T08:48:26.106814+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-x64/chromedriver] found in cache
+2024-07-28T08:48:32.243641+00:00 - INFO - Found email & password fields, and login button.
+2024-07-28T08:48:32.439600+00:00 - INFO - Email address entered.
+2024-07-28T08:48:32.546515+00:00 - INFO - Password entered.
+2024-07-28T08:48:32.616056+00:00 - INFO - Scrolled login button into view.
+2024-07-28T08:48:32.630977+00:00 - INFO - Login button clicked.
+2024-07-28T08:48:33.681538+00:00 - INFO - Login successful!
+2024-07-28T08:48:58.686346+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.700630+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.717365+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:48:58.717824+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.722077+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.739329+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:48:58.739654+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.744424+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.761119+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:48:58.761510+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.765928+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.784059+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:48:58.784403+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.789525+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.806341+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:48:58.806716+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.811038+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.828093+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:48:58.828507+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.833334+00:00 - INFO - Filtered events: []
+2024-07-28T08:48:58.850353+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:48:58.850586+00:00 - INFO - Run 1/20 completed.
+2024-07-28T08:49:23.960904+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:23.985000+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.003785+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:49:24.004160+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.008506+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.025564+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:49:24.025876+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.029823+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.047582+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:49:24.047956+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.052301+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.069724+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:49:24.069972+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.073888+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.091734+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:49:24.092054+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.096571+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.113573+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:49:24.113886+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.118014+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:24.135636+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:49:24.135841+00:00 - INFO - Run 2/20 completed.
+2024-07-28T08:49:49.171252+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.178342+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.194024+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:49:49.194453+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.200854+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.217079+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:49:49.217838+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.224685+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.239210+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:49:49.239660+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.244216+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.260873+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:49:49.261225+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.265609+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.283051+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:49:49.283363+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.288893+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.305073+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:49:49.305419+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.309853+00:00 - INFO - Filtered events: []
+2024-07-28T08:49:49.326894+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:49:49.327146+00:00 - INFO - Run 3/20 completed.
+2024-07-28T08:50:14.492433+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.578890+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.583240+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:50:14.583686+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.589699+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.606097+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:50:14.627461+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.631657+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.650361+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:50:14.650700+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.655055+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.655210+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:50:14.655380+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.661520+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.661765+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:50:14.681429+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.687478+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.703263+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:50:14.703691+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.708810+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:14.725469+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:50:14.725703+00:00 - INFO - Run 4/20 completed.
+2024-07-28T08:50:39.861038+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.879081+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.895943+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:50:39.896293+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.900695+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.917788+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:50:39.918212+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.924327+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.939921+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:50:39.940271+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.945226+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.961854+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:50:39.962212+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.968025+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.984663+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:50:39.985003+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:39.989543+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:40.006795+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:50:40.007154+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:40.012292+00:00 - INFO - Filtered events: []
+2024-07-28T08:50:40.028826+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:50:40.029005+00:00 - INFO - Run 5/20 completed.
+2024-07-28T08:51:04.904765+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.916135+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.931134+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:51:04.931448+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.936450+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.953388+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:51:04.953822+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.957702+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.976029+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:51:04.976363+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.980936+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:04.998107+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:51:04.998402+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.002203+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.020192+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:51:05.020540+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.024833+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.042274+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:51:05.042687+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.047348+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:05.064014+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:51:05.064187+00:00 - INFO - Run 6/20 completed.
+2024-07-28T08:51:30.098182+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.121783+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.138627+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-28T08:51:30.139041+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.143252+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.160363+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-28T08:51:30.160798+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.165431+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.183582+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-28T08:51:30.183964+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.188561+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.207600+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-28T08:51:30.207889+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.213683+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.229526+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-28T08:51:30.229984+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.235756+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.251774+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-28T08:51:30.252271+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.256559+00:00 - INFO - Filtered events: []
+2024-07-28T08:51:30.275028+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-28T08:51:30.275247+00:00 - INFO - Run 7/20 completed.
+2024-07-28T08:51:39.927924+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/470e461e0af1cf86b14d18a93d60508d
+2024-07-28T08:51:39.941843+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9d5f3f9fa0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/470e461e0af1cf86b14d18a93d60508d
+2024-07-28T08:51:39.959575+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9d5f3f9df0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/470e461e0af1cf86b14d18a93d60508d

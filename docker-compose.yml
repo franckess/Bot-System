@@ -1,0 +1,35 @@
+services:
+  monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitor
+    container_name: monitor_service
+    environment:
+      - PYTHONUNBUFFERED=1
+      - DOCKER_ENV=true
+    volumes:
+      - logs:/app/logs  # Use a named volume for shared logs
+    env_file:
+      - .env
+    command: ["poetry", "run", "python", "monitor.py"]
+
+  shift_booking:
+    build:
+      context: .
+      dockerfile: Dockerfile.shift_booking
+    container_name: shift_booking_service
+    environment:
+      - PYTHONUNBUFFERED=1
+      - DOCKER_ENV=true
+    volumes:
+      - logs:/app/logs  # Use the same named volume for shared logs
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"  # Expose port 8000 for the HTTP server
+    depends_on:
+      - monitor
+    command: ["poetry", "run", "python", "shift_booking.py"]
+
+volumes:
+  logs:

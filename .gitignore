@@ -1,0 +1,26 @@
+# Ignore archive, botsys, and debug_screenshots directories
+archive/
+botsys/
+debug_screenshots/
+
+# Ignore Python cache and compiled files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Ignore Python virtual environments
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore IDE and editor configurations
+.idea/
+.vscode/
+
+# Ignore swap files
+*.swp
