@@ -2,6 +2,7 @@
 archive/
 botsys/
 debug_screenshots/
+logs/
 
 # Ignore Python cache and compiled files
 __pycache__
@@ -9,6 +10,8 @@ __pycache__
 *.pyo
 *.pyd
 .env
+.gitignore
+.dockerignore
 
 # Ignore Python virtual environments
 .Python
