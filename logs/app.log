@@ -876,3 +876,258 @@
 2024-07-28T08:51:39.927924+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/470e461e0af1cf86b14d18a93d60508d
 2024-07-28T08:51:39.941843+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9d5f3f9fa0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/470e461e0af1cf86b14d18a93d60508d
 2024-07-28T08:51:39.959575+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9d5f3f9df0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/470e461e0af1cf86b14d18a93d60508d
+2024-07-30T13:23:26.232751+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T13:23:26.525373+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:23:27.530921+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:23:28.396532+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:23:29.992690+00:00 - INFO - WebDriver version 126.0.6478.182 selected
+2024-07-30T13:23:29.995554+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-30T13:23:29.995760+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.182/mac-x64/chromedriver-mac-x64.zip
+2024-07-30T13:23:30.454338+00:00 - INFO - Driver downloading response is 200
+2024-07-30T13:23:33.127352+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:23:36.097707+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182]
+2024-07-30T13:23:43.938809+00:00 - INFO - Found email & password fields, and login button.
+2024-07-30T13:23:44.163411+00:00 - INFO - Email address entered.
+2024-07-30T13:23:44.280008+00:00 - INFO - Password entered.
+2024-07-30T13:23:44.379524+00:00 - INFO - Scrolled login button into view.
+2024-07-30T13:23:44.398999+00:00 - INFO - Login button clicked.
+2024-07-30T13:23:45.488377+00:00 - INFO - Login successful!
+2024-07-30T13:24:10.551488+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.569590+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.585807+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:24:10.586136+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.590905+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.607677+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:24:10.608023+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.612378+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.629670+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:24:10.630008+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.634394+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.651836+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:24:10.652178+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.656467+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.690056+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:24:10.690416+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.694391+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.711741+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:24:10.712064+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.716425+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:10.732509+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:24:10.732755+00:00 - INFO - Run 1/20 completed.
+2024-07-30T13:24:36.516835+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.540518+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.558322+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:24:36.558696+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.562890+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.580350+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:24:36.580719+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.584496+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.602021+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:24:36.602378+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.606406+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.624370+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:24:36.624842+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.629451+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.646331+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:24:36.646731+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.650783+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.668132+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:24:36.668545+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.673461+00:00 - INFO - Filtered events: []
+2024-07-30T13:24:36.690292+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:24:36.690529+00:00 - INFO - Run 2/20 completed.
+2024-07-30T13:25:01.747355+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.771847+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.790944+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:25:01.791390+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.796640+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.811780+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:25:01.812182+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.816510+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.833770+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:25:01.834107+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.839439+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.856887+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:25:01.857262+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.861963+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.880020+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:25:01.880359+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.885085+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.901452+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:25:01.901785+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.906923+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:01.923786+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:25:01.923966+00:00 - INFO - Run 3/20 completed.
+2024-07-30T13:25:27.255818+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.266704+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.283006+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:25:27.283318+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.287587+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.305297+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:25:27.305634+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.309586+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.327276+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:25:27.327704+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.332183+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.349113+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:25:27.349432+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.354245+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.371201+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:25:27.371531+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.376162+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.393353+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:25:27.393868+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.417838+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:27.437286+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:25:27.437482+00:00 - INFO - Run 4/20 completed.
+2024-07-30T13:25:52.602219+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.627935+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.644534+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:25:52.645001+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.649503+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.666540+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:25:52.666872+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.672404+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.688532+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:25:52.688872+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.693044+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.710441+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:25:52.710949+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.715917+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.732549+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:25:52.732941+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.737064+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.754578+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:25:52.754894+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.758970+00:00 - INFO - Filtered events: []
+2024-07-30T13:25:52.776417+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:25:52.776624+00:00 - INFO - Run 5/20 completed.
+2024-07-30T13:25:53.880677+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/1a6c34db5afcf29fd15eef2ac1dbed5e
+2024-07-30T13:25:53.900357+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa6b51d2880>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1a6c34db5afcf29fd15eef2ac1dbed5e
+2024-07-30T13:25:53.922795+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa6b51d2a60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1a6c34db5afcf29fd15eef2ac1dbed5e
+2024-07-30T13:26:33.345184+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T13:26:33.599259+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:26:34.233093+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T13:26:34.414593+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/126.0.6478.182/chromedriver-mac-x64/chromedriver] found in cache
+2024-07-30T13:26:41.310165+00:00 - INFO - Found email & password fields, and login button.
+2024-07-30T13:26:41.508507+00:00 - INFO - Email address entered.
+2024-07-30T13:26:41.623794+00:00 - INFO - Password entered.
+2024-07-30T13:26:41.690618+00:00 - INFO - Scrolled login button into view.
+2024-07-30T13:26:41.712934+00:00 - INFO - Login button clicked.
+2024-07-30T13:26:42.796866+00:00 - INFO - Login successful!
+2024-07-30T13:27:07.806946+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.823940+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.839401+00:00 - INFO - No significant change detected in the monitored section for Sun 28.
+2024-07-30T13:27:07.839756+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.844313+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.861214+00:00 - INFO - No significant change detected in the monitored section for Mon 29.
+2024-07-30T13:27:07.861521+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.865975+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.883177+00:00 - INFO - No significant change detected in the monitored section for Tue 30.
+2024-07-30T13:27:07.883515+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.887811+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.905041+00:00 - INFO - No significant change detected in the monitored section for Wed 31.
+2024-07-30T13:27:07.905430+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.909788+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.927141+00:00 - INFO - No significant change detected in the monitored section for Thu 1.
+2024-07-30T13:27:07.927576+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.932031+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.949271+00:00 - INFO - No significant change detected in the monitored section for Fri 2.
+2024-07-30T13:27:07.949632+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.953892+00:00 - INFO - Filtered events: []
+2024-07-30T13:27:07.973087+00:00 - INFO - No significant change detected in the monitored section for Sat 3.
+2024-07-30T13:27:07.973261+00:00 - INFO - Run 1/20 completed.
+2024-07-30T13:27:32.837363+00:00 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))': /session/2dd33ba4882964315e92f5cdc01d33eb
+2024-07-30T13:27:32.849278+00:00 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbcf4a4e8e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2dd33ba4882964315e92f5cdc01d33eb
+2024-07-30T13:27:32.864240+00:00 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbcf4a4ee80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2dd33ba4882964315e92f5cdc01d33eb
+2024-07-30T22:21:53.352912+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T22:22:10.493362+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:10.673266+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:10.812538+00:00 - INFO - There is no [mac64] chromedriver "127.0.6533.72" for browser google-chrome "127.0.6533" in cache
+2024-07-30T22:22:10.826717+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:11.431781+00:00 - INFO - WebDriver version 127.0.6533.72 selected
+2024-07-30T22:22:11.451985+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.72/mac-x64/chromedriver-mac-x64.zip
+2024-07-30T22:22:11.471346+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.72/mac-x64/chromedriver-mac-x64.zip
+2024-07-30T22:22:11.632005+00:00 - INFO - Driver downloading response is 200
+2024-07-30T22:22:13.416963+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:14.246597+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.72]
+2024-07-30T22:22:33.102945+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T22:22:33.540011+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:33.933721+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:22:34.074825+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.72/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-07-30T22:28:55.758891+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T22:28:56.741505+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:28:56.924135+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:28:57.147207+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.72/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-07-30T22:55:46.622465+00:00 - INFO - ====== WebDriver manager ======
+2024-07-30T22:55:46.838659+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:55:47.022018+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-30T22:55:47.136808+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.72/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-07-31T15:13:54.500823+00:00 - INFO - ====== WebDriver manager ======
+2024-07-31T15:14:06.086606+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:06.465774+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:06.663546+00:00 - INFO - There is no [mac64] chromedriver "127.0.6533.88" for browser google-chrome "127.0.6533" in cache
+2024-07-31T15:14:06.673639+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:07.538912+00:00 - INFO - WebDriver version 127.0.6533.88 selected
+2024-07-31T15:14:07.541283+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/mac-x64/chromedriver-mac-x64.zip
+2024-07-31T15:14:07.541389+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/mac-x64/chromedriver-mac-x64.zip
+2024-07-31T15:14:08.036683+00:00 - INFO - Driver downloading response is 200
+2024-07-31T15:14:10.403707+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:10.878160+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88]
+2024-07-31T15:14:34.797726+00:00 - INFO - ====== WebDriver manager ======
+2024-07-31T15:14:35.060477+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:35.311239+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:14:35.521208+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-07-31T15:26:21.402230+00:00 - INFO - ====== WebDriver manager ======
+2024-07-31T15:26:21.823971+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:26:22.489697+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-07-31T15:26:22.690687+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T11:22:25.567313+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T11:22:25.945050+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T11:22:27.109637+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T11:22:27.268948+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T11:22:27.700010+00:00 - INFO - WebDriver version 127.0.6533.88 selected
+2024-08-01T11:22:27.702039+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/mac-x64/chromedriver-mac-x64.zip
+2024-08-01T11:22:27.702158+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.88/mac-x64/chromedriver-mac-x64.zip
+2024-08-01T11:22:28.173058+00:00 - INFO - Driver downloading response is 200
+2024-08-01T11:22:30.076094+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T11:22:30.479009+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88]
+2024-08-01T22:55:05.815008+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T22:55:06.578349+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:55:07.018026+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:55:07.142668+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T22:56:18.002729+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T22:56:18.413635+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:56:18.551587+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:56:18.689468+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T22:58:54.484164+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T22:58:54.896066+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:58:55.034807+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T22:58:55.171502+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T23:01:16.495839+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T23:01:16.703678+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:01:16.840093+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:01:16.966615+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T23:02:46.702869+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T23:02:47.058011+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:02:47.191106+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:02:47.326881+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T23:10:07.659373+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T23:10:08.069890+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:10:08.518726+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:10:08.647313+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-01T23:15:09.375851+00:00 - INFO - ====== WebDriver manager ======
+2024-08-01T23:15:09.589018+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:15:10.084033+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-01T23:15:10.195182+00:00 - INFO - Driver [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.88/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2024-08-12T16:33:14.193691+00:00 - INFO - ====== WebDriver manager ======
+2024-08-12T16:33:25.229098+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-12T16:33:25.431071+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-12T16:33:25.555643+00:00 - INFO - There is no [mac64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-12T16:33:25.566042+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-12T16:33:26.187869+00:00 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-12T16:33:26.189769+00:00 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/mac-x64/chromedriver-mac-x64.zip
+2024-08-12T16:33:26.189866+00:00 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/mac-x64/chromedriver-mac-x64.zip
+2024-08-12T16:33:26.366658+00:00 - INFO - Driver downloading response is 200
+2024-08-12T16:33:28.263445+00:00 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-12T16:33:28.566605+00:00 - INFO - Driver has been saved in cache [/Users/franckess/.wdm/drivers/chromedriver/mac64/127.0.6533.99]

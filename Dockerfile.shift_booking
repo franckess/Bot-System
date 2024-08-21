@@ -9,10 +9,10 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Chrome
-RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key add - \
-    && sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list' \
+RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
+    && sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list' \
     && apt-get update \
-    && apt-get install -y google-chrome-stable=127.0.6533.72-1
+    && apt-get install -y google-chrome-stable
 
 # Install ChromeDriver
 RUN wget -O /tmp/chromedriver.zip "https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.72/linux64/chromedriver-linux64.zip" \
@@ -26,8 +26,9 @@ RUN curl -sSL https://install.python-poetry.org | python3 - --git https://github
 ENV PATH="/root/.local/bin:$PATH"
 
 # Set environment variables
-ENV PYTHONUNBUFFERED=1
-ENV DOCKER_ENV=true
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    DOCKER_ENV=true
 
 # Set the working directory
 WORKDIR /app
@@ -39,7 +40,7 @@ COPY pyproject.toml poetry.lock ./
 RUN chmod +x /root/.local/bin/poetry
 
 # Install Python dependencies using Poetry
-RUN poetry install --no-root
+RUN poetry config virtualenvs.in-project true && poetry install --no-interaction --no-ansi
 
 # Copy the application code
 COPY . .
